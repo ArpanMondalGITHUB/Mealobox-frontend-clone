@@ -1,6 +1,7 @@
-# mealoboxclone
+# mealoboxclone-frontend-clone
 
-A new Flutter project.
+## Designed and implemented landing pages with smooth, responsive animations using Flutter.
+## - Contributed to UI/UX enhancements of the MealOBox app for better performance and engagement.
 
 ## Getting Started
 
