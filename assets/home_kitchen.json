@@ -1,0 +1,52 @@
+{
+    "homekitchen":[
+        {
+            "id":0,
+            "homekitchenpic":"https://img.freepik.com/free-photo/top-view-composition-different-pakistan-goodies_23-2148821564.jpg?t=st=1732341826~exp=1732345426~hmac=ae5217113277f082635f357b95dd315ae7b5af08be5f0267f4a3cab93b9c2049&w=740",
+            "discount":"20% off",
+            "howmanymealsserved":"300+ meals served",
+            "name":"Hetal's Kitchen",
+            "rating":"4.5",
+            "speciality":"Gujrati (Pure Veg)",
+            "serves":"Serves:Breakfast,Lunch,Dinnner",
+            "price":"20-160 for one",
+            "duration&location":"30 to 40 mins | 1.8kms | Ghatkopar",
+            "about":"Hetal's Kitchen is your destination for authentic and delicious veg and gujrati food , a dedicated housewife with a love for coocking , ensure that every dish must be crafted care and traditional flavours.",
+            "photoesoffoods":[
+                {
+                    "pic1":"https://img.freepik.com/free-photo/top-view-tasty-chicken-salad-with-vegetables_140725-85128.jpg?t=st=1732342561~exp=1732346161~hmac=2fac2502218a63d8ca0cae0aa2378796cb9bad3f9d317cdf397416f1b29d2a53&w=1060"
+                },
+                {
+                    "pic2":"https://img.freepik.com/free-photo/indian-delicious-roti-assortment_23-2149073338.jpg?t=st=1732343096~exp=1732346696~hmac=a7a727cc33c58bccb7b27c821398adb741965aff19d8607c212a2a388baf9be1&w=360"
+                },
+                {
+                    "pic3":"https://img.freepik.com/free-photo/top-view-hot-vegetable-soup-inside-plate-white-space_140725-76287.jpg?t=st=1732343129~exp=1732346729~hmac=c20938b8e7fd5c170fc1800470fd9cdbabc31a10f7207294d585c63af44a6cc2&w=360"
+                }
+            ],
+            
+            "whychoose":[
+                {
+                    "vegornonveg":"100% pure vegeterian",
+                    "typeofpackaging":"Eco-freindly packaging",
+                    "ismicrowavesafe":"Microwave-freindly packaging",
+                    "homemade":"Homemade Goodness"
+                }
+            ],
+            "deliveryhours":[
+                {
+                    "breakfast":"7:00am - 10:00am"
+                },
+                {
+                    "lunch":"12:00pm - 3:00pm"
+                },
+                {
+                    "dinner":"6:30pm - 10.30pm"
+                }
+            ],
+            "location":"D/402,Nellkanth heights,Rajwadi, Ghatkopar East, Mumbai-400077",
+            "contact":"9984989843"
+
+
+        }
+    ]
+}

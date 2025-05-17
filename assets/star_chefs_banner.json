@@ -1,0 +1,14 @@
+{
+    "starchefs":[
+        {
+            "name":"Mukta's Kitchen",
+            "speciality":"Maharastrian | Kankani",
+            "pic":"https://img.freepik.com/premium-photo/young-girl-wearing-white-shirt-with-smile-her-face_636346-29.jpg?w=360"
+        },
+        {
+            "name":"Sita's Spice House",
+            "speciality":"Rajasthani | Gujrati",
+            "pic":"https://img.freepik.com/premium-photo/indian-asian-woman-chef-wearing-apron-holding-pan-spatula-while-standing-isolated-white-background_466689-7684.jpg?w=360"
+        }
+    ]
+}

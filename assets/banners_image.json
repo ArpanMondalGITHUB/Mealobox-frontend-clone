@@ -1,0 +1,34 @@
+{
+    "banners":[
+        {
+            "id":"1",
+            "image":     "https://img.freepik.com/free-vector/flat-design-food-banner-template_23-2149076251.jpg?t=st=1730186955~exp=1730190555~hmac=f7f74030b8357aa1986df0120d1836008fb1bf74ffbbef4cf35520c56312231f&w=1380"
+        },
+        {
+            "id":"2",
+            "image":     "https://img.freepik.com/free-vector/flat-world-vegan-day-social-media-post-template_23-2149707626.jpg?t=st=1730186986~exp=1730190586~hmac=80db31e7faab7a139fe94f7d59a42ef615fe1be2bcb11ffe0f3780e8adcdf8a1&w=1060"
+        },
+        {
+            "id":"3",
+            "image":        "https://img.freepik.com/free-vector/gradient-brazilian-restaurant-facebook-cover_23-2149752128.jpg?t=st=1730187012~exp=1730190612~hmac=8ee51f6eec3ce3843aa4c7235bbee9fa24765ba5116ee21d130ef9bccd30542b&w=1380"
+
+        },
+        {
+            "id":"4",
+            "image":        "https://img.freepik.com/free-vector/hand-drawn-flat-republic-day-sale-horizontal-banner_23-2149188336.jpg?t=st=1730187037~exp=1730190637~hmac=f23a7549b5b2210d0b10d2797bc1e2d943b8a0af00670e03c0c4dea282ba175b&w=1380"
+
+        },
+        {
+            "id":"5",
+            "image":         "https://img.freepik.com/free-vector/flat-design-organic-food-facebook-cover-template_23-2149112283.jpg?t=st=1730187073~exp=1730190673~hmac=fe18dfc947c27b00fc7478d3156253c1a639fecb813c6c5c45534560684fe259&w=1060"
+
+        },
+        {
+            "id":"6",
+            "image":         "https://img.freepik.com/free-vector/flat-design-organic-food-sale-banner-template_23-2149112289.jpg?t=st=1730186958~exp=1730190558~hmac=bfb6237197877f06c9db05bde607b05fd6607ab22a4099957018bdabfc61f6a2&w=1380"
+
+        }
+
+    ]
+}
+ 

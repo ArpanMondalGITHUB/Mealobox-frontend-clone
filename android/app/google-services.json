@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36339091491",
+    "project_id": "mealoboxclone",
+    "storage_bucket": "mealoboxclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36339091491:android:d6521a7755de31ccf28996",
+        "android_client_info": {
+          "package_name": "com.example.mealoboxclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAMrdNX3g28Sy_2FpN5iObN3wmxpcGBCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

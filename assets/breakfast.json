@@ -1,0 +1,88 @@
+{
+    "breakfastitems":[
+        {
+            "id":0,
+            "image":"https://img.freepik.com/free-photo/fried-bread-with-egg-wooden-board_114579-83306.jpg?t=st=1731633246~exp=1731636846~hmac=cf927b952f4f9675c720b596fd9674bea24fc5e9ff414b62b8757fc54a2c575e&w=1060",
+            "name":"Bread Toast",
+            "price": 99
+        },
+        {
+            "id":1,
+            "image":"https://img.freepik.com/free-photo/delicious-indian-dosa-assortment_23-2149086040.jpg?t=st=1731633500~exp=1731637100~hmac=3fabe6a5000d2477f2ab95ebe27d2df6e67bf64616b52113ca1756e2304888fe&w=360",
+            "name":"Thepla",
+            "price": 69
+        },
+        {
+            "id":2,
+            "image":"https://img.freepik.com/free-photo/handle-fork-that-is-about-insert-black-sticky-rice-dessert-with-custard-banana-leaf_1150-20714.jpg?t=st=1731633588~exp=1731637188~hmac=4523c5c18599e90c9604e3716ad04b247c3685b0995ce17486de9d716fcd54c5&w=360",
+            "name":"Black Stickey Rice",
+            "price": 50
+        },
+        {
+            "id":3,
+            "image":"https://img.freepik.com/free-photo/delicious-dutch-waffles_114579-57243.jpg?t=st=1731633694~exp=1731637294~hmac=f3a89e9edee7e111433c051d2baab29126e1e85390e68a5fd506c5f702fc0bf2&w=1060",
+            "name":"Waffles",
+            "price": 299
+        },
+        {
+            "id":4,
+            "image":"https://img.freepik.com/free-photo/small-buns-with-nut-fillings-bowl_114579-44901.jpg?t=st=1731633806~exp=1731637406~hmac=18975204d877227be01b7769989bc2f2dcb867e21033ac762c60f7ee97920e0f&w=1060",
+            "name":"Puri",
+            "price": 39
+        },
+        {
+            "id":5,
+            "image":"https://img.freepik.com/free-photo/top-view-salad-with-herbs-cutting-board-side-with-leaves-top-it-dark-grey-table_140725-80566.jpg?t=st=1731633860~exp=1731637460~hmac=fbc5eb4c4f882329256058d4d9f3101b63256cfb4b2641b3b58df29b766b7142&w=1060",
+            "name":"Lemon Rice",
+            "price": 199
+        },
+        {
+            "id":6,
+            "image":"https://img.freepik.com/free-photo/front-view-little-delicious-cakes-inside-plate-dark-background-pie-biscuit-cake-sweet-tea-cookie-sugar_140725-115809.jpg?t=st=1731633932~exp=1731637532~hmac=65b0ef52b262ebc9b3114aebe5435ea885c844f620867889a3842bdc12dda6f1&w=1060",
+            "name":"Pie",
+            "price": 99
+        },
+        {
+            "id":7,
+            "image":"https://img.freepik.com/free-photo/top-view-delicious-breakfast-meal-assortment_23-2148829501.jpg?t=st=1731633984~exp=1731637584~hmac=3b3103755879078e62382c94b43d611253ce0517ed038395d205f2df957634c6&w=740",
+            "name":"Assortment",
+            "price": 89
+        },
+        {
+            "id":8,
+            "image":"https://img.freepik.com/free-photo/top-view-delicious-sand-cookies-inside-plate-white-background_140725-76553.jpg?t=st=1731634082~exp=1731637682~hmac=9761e5c55748dac2f5ab70b57e5820fd52b4975a21473c5fff93e955bad9a40e&w=1060",
+            "name":"Cookies",
+            "price": 99
+        },
+        {
+            "id":9,
+            "image":"https://img.freepik.com/free-photo/nutritious-indian-dosa-assortment_23-2149086076.jpg?t=st=1731634185~exp=1731637785~hmac=1a32b2180c5641e47ab6dd82d0a4cc615f4dbc844de782f0bf7033de5ece4c94&w=360",
+            "name":"Dosa",
+            "price": 90
+        },
+        {
+            "id":10,
+            "image":"https://img.freepik.com/free-photo/indian-delicious-roti-with-copy-space_23-2149073355.jpg?t=st=1731634259~exp=1731637859~hmac=9d908cdb67b3fb45372bfa3c73e162aadfdb61ac0b3f4bb3f6a875af74b8e3e9&w=360",
+            "name":"Roti Sabji",
+            "price": 70
+        },
+        {
+            "id":11,
+            "image":"https://img.freepik.com/free-photo/overhead-view-lavash-wrap-yogurt-small-bowl-plate-stained-white-surface-with-free-space_179666-42713.jpg?t=st=1731634335~exp=1731637935~hmac=681c7ae5744db4a4372e9551aeb2c11d7d6fbcf4afff0ab181c516febec81e43&w=1060",
+            "name":"Lavash",
+            "price": 399
+        },
+        {
+            "id":12,
+            "image":"https://img.freepik.com/premium-photo/onion-rava-masala-dosa-is-south-indian-instant-breakfast-served-with-chutney-sambar-moody-background-selective-focus_466689-31680.jpg?w=360",
+            "name":"Masala Dosa",
+            "price": 199
+        },
+        {
+            "id":13,
+            "image":"https://img.freepik.com/free-photo/top-view-tasty-gutabs-thin-hotcakes-with-meat-inside-desk-dark-background-color-hotcake-dough-meal-oven-pie-pastry-cakes_179666-46700.jpg?t=st=1731634439~exp=1731638039~hmac=efdf44208dceaa422652e56c0ba3514679ae5cf3a888df1c54b6899680a9da59&w=360",
+            "name":"hot parathas",
+            "price": 299
+        }
+    ]
+}

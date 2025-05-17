@@ -1,0 +1,2 @@
+C:/Users/Arpan Mondal/foodecom/mealoboxclone/android/app/.cxx/Debug/5a5r5f3y/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Arpan Mondal/foodecom/mealoboxclone/android/app/.cxx/Debug/5a5r5f3y/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,46 @@
+{
+    "lunch":[
+        {
+            "id":0,
+            "image_url":"https://www.freepik.com/premium-photo/black-masoor-dal-fry-dhaba-style-sabut-red-lentil-dhal-tadka-green-curry-served-bowl-selective-focus_17525687.htm#fromView=search&page=1&position=12&uuid=4ae69f72-6f8e-48f9-946e-217e3096d776",
+            "name":"Chola Kulcha",
+            "price":60
+        },
+        {
+            "id":1,
+            "image_url":"https://www.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_7536850.htm#fromView=search&page=1&position=10&uuid=78f5efca-0e6b-45c7-a6dc-2e540d91fa59",
+            "name":"Khichdi",
+            "price":155
+        },
+        {
+            "id":2,
+            "image_url":"https://www.freepik.com/free-photo/high-angle-view-delicious-food-wooden-desk_2905855.htm#fromView=search&page=1&position=44&uuid=6fbd3036-8f5d-43ed-a367-e8bf426650c5",
+            "name":"Chola Alu",
+            "price":50
+        },
+        {
+            "id":3,
+            "image_url":"https://www.freepik.com/premium-photo/indian-style-chawli-aloo-subji-sabzi-long-bean-potato-dry-fry-served-bowl-selective-focus_15673106.htm#fromView=search&page=2&position=15&uuid=6fbd3036-8f5d-43ed-a367-e8bf426650c5",
+            "name":"Bean Alu",
+            "price":69
+        },
+        {
+            "id":4,
+            "image_url":"https://www.freepik.com/premium-photo/drumstick-currya-a-a-a-is-delicious-tangy-vegetable-gravy-dry-recipe-which-is-prepared-using-moringa-sticks-spices-healthya-a-a-a-indian-food_19468702.htm#fromView=search&page=2&position=20&uuid=6fbd3036-8f5d-43ed-a367-e8bf426650c5",
+            "name":"Drum Stick",
+            "price":80
+        },
+        {
+            "id":5,
+            "image_url":"https://www.freepik.com/premium-photo/ladies-finger-bhindi-curry-okra-masala-gravy-selective-focus_16410307.htm#fromView=search&page=2&position=25&uuid=6fbd3036-8f5d-43ed-a367-e8bf426650c5",
+            "name":"Vindi Sabji",
+            "price":30
+        },
+        {
+            "id":6,
+            "image_url":"https://www.freepik.com/premium-photo/mix-vegetable-curry-indian-main-course-recipe-contains-carrots-cauliflower-green-peas-beans-baby-corn-capsicum-paneer-cottage-cheese-with-traditional-masala-curry_17094772.htm#fromView=search&page=2&position=45&uuid=6fbd3036-8f5d-43ed-a367-e8bf426650c5",
+            "name":"Mix VEG",
+            "price":70
+        }
+    ]
+}
